@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uwakuayu.github.io/ILs/sitemap_index.txt
+Sitemap: https://uwakuayu.github.io/ViN/sitemap_index.txt
+Sitemap: https://uwakuayu.github.io/bKr/sitemap_index.txt
+Sitemap: https://uwakuayu.github.io/mrh/sitemap_index.txt
